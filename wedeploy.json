@@ -1,6 +1,6 @@
 {
-    "id": "jenkins",
-    "image": "jenkins/jenkins:lts",
+    "id": "jenkins-slave",
+    "image": "jenkinsci/slave",
     "cpu": 1,
     "memory": 16384
 }
