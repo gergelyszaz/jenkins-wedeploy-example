@@ -1,6 +1,6 @@
 {
     "id": "slave",
-    "image": "jenkinsci/slave",
+    "image": "jenkins/jnlp-slave",
     "cpu": 1,
     "memory": 16384
 }
