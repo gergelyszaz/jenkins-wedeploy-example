@@ -2,5 +2,5 @@
     "id": "jenkins",
     "image": "jenkins/jenkins:lts",
     "cpu": 1,
-    "memory": 4096
+    "memory": 16384
 }
