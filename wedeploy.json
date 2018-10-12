@@ -1,6 +1,6 @@
 {
-    "id": "jenkins",
-    "image": "jenkins/jenkins:lts",
+    "id": "master",
+    "image": "jenkins/jenkins:alpine",
     "cpu": 1,
     "memory": 16384
 }
